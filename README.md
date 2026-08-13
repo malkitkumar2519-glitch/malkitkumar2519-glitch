@@ -8,6 +8,7 @@
 💻 Frontend Developer  
 ⚛️ React, Redux Toolkit, Tailwind CSS & JavaScript  
 🧠 100+ LeetCode problems solved using JAVA
+
 🚀 Aspiring Software Development Engineer (SDE)
 
 ## 🌐 Socials & Coding Profiles
